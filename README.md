@@ -14,7 +14,7 @@ providing consistent, stable jobs can help companies increase retention, attract
 The datasets that was used in this project is a public source dataset, from Kaggle. Source: Here. The dataset includes many features it consists of relevent_experience, company_size, training_hours, education_level, etc. It is useful for the classification prediction.
 
 Size: 19159 records × 14 columns
-# Tools:
+# Tools
 
 Technologies: Jupyter Notebook, Python.
 
