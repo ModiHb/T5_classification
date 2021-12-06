@@ -19,3 +19,11 @@ Size: 19159 records × 14 columns
 Technologies: Jupyter Notebook, Python.
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
+______________________________________________________
+
+**Instructor:** [**Mr. Srinivas Rao**]()
+
+### contributors:
+
+#### [Leena AlQasem](https://github.com/LeenaAAlQasem)
